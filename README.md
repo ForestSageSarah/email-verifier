@@ -37,6 +37,10 @@ This is a simple Python application that verifies a list of emails using the Ver
 	python email_verifier.py
 	```
 
+## Screenshots
+
+![Main Window](https://raw.github.com/ForestSageSarah/email-verifier/main/ScreenShot_01.png?raw=true)
+
 ## Usage
 
 - Enter your VerifyMail.io API key in the provided entry field and click "Save API Key."
